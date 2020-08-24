@@ -13,6 +13,6 @@ if you don't want to use your own email for verification than i suggest you use 
 #### You may also browse without any user or use the test user I've created:
 
 * Username: test
-* Password: test
+* Password: bestbrand
 
 The webpage is deployed here: [BEST BRAND](https://best-brand.herokuapp.com/)
